@@ -1,6 +1,6 @@
 # Node.js Socket.IO Chat Application made by Chedhly Ghorbel
 
-This is a simple chat application built using Node.js and Socket.IO.
+This is a simple chat application built using Node.js and Socket.IO based on this example : https://socket.io/get-started/chat/ 
 
 ## Features
 
